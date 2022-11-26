@@ -14,7 +14,7 @@ namespace TimingClass
             Timing tObj = new Timing();
             int[] nums = new int[100000];
             DateTime startTimeDT; //wrong measurement code
-            TimeSpan endTimeDT; //wrong measurement code
+            TimeSpan endTimeDT; //wron  measurement code
 
             BuildArray(nums);
 
